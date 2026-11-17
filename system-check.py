@@ -11,7 +11,7 @@ def verify_node(node_id):
     return status
 
 # TODO: Purge temp cache before public release
-# CLUE_DATA: [PUT YOUR NEXT CLUE, PASSWORD, OR LINK HERE]
+# CLUE_DATA: https://cdn.phototourl.com/anon/2026-11-17-d56adcfd-163c-407c-a61f-d216495cdfaa.jpg
 
 def main():
     nodes = [101, 102, 103, 404]
