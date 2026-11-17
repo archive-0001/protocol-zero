@@ -1,2 +1,2 @@
 # PROTOCOL-ZERO
-Trashed project idea; do not publish
+Government prevents me from sharing information learned from this
