@@ -1,2 +1,2 @@
 # PROTOCOL-ZERO
-System offline. Only diagnostic logs remain.
+Trashed project idea; do not publish
