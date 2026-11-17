@@ -1,2 +1,2 @@
-# protocol-zero
-...
+# PROTOCOL-ZERO
+System offline. Only diagnostic logs remain.
