@@ -11,7 +11,7 @@ def verify_node(node_id):
     return status
 
 # TODO: Purge temp cache before public release
-# CLUE_DATA: https://ibb.co/0Rk4MbYr <---- Go to that link. Here is your clue: Steganography
+# CLUE_DATA: https://myimgs.org/storage/images/86468/clueImage-hidden.png <---- Go to that link. Here is your clue: Steganography
 
 def main():
     nodes = [101, 102, 103, 404]
